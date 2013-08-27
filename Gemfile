@@ -1,4 +1,4 @@
-source 'http://gemcutter.org'
+source 'http://ruby.taobao.org'
 
 group :test do
   gem "shoulda"
